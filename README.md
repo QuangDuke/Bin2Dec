@@ -7,6 +7,6 @@ Personal self-coding-improvement project of a novice programmer. I'm getting ide
 
 Check the src folder within Bin2Dec for the code...
 
-Feel free to use the code however you wish and/or give any constructive criticism, feedbacks, or suggestions.
+Feel free to give any constructive criticism, feedbacks, or suggestions.
 
 Duc
